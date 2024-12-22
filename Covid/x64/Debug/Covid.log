@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\Covid\main.c(77,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Covid.vcxproj -> C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\x64\Debug\Covid.exe
