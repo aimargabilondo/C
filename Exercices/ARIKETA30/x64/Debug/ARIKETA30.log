@@ -1,0 +1,5 @@
+﻿  ARIKETA30.c
+C:\Users\imuru\OneDrive\Escritorio\Program2\OINARRIZKOARIKETAK\ARIKETA30\ARIKETA30.c(12,9): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\imuru\OneDrive\Escritorio\Program2\OINARRIZKOARIKETAK\ARIKETA30\ARIKETA30.c(15,9): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\imuru\OneDrive\Escritorio\Program2\OINARRIZKOARIKETAK\ARIKETA30\ARIKETA30.c(6,7): warning C4101: 'str': variable local sin referencia
+  ARIKETA30.vcxproj -> C:\Users\imuru\OneDrive\Escritorio\Program2\OINARRIZKOARIKETAK\x64\Debug\ARIKETA30.exe
