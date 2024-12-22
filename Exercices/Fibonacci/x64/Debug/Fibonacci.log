@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\aimar\OneDrive\Escritorio\Program1\Fibonacci\Fibonacci\main.c(6,10): warning C4101: 'str': variable local sin referencia
+  Fibonacci.vcxproj -> C:\Users\aimar\OneDrive\Escritorio\Program1\Fibonacci\x64\Debug\Fibonacci.exe
