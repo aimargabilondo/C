@@ -1,0 +1,6 @@
+﻿  herrialdeak.c
+C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\fitxategiak_azterketa_1\herrialdeak.c(101,10): warning C4101: 'izena': variable local sin referencia
+  main.c
+  menua.c
+  Generando código...
+  fitxategiak_azterketa_1.vcxproj -> C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\x64\Debug\fitxategiak_azterketa_1.exe

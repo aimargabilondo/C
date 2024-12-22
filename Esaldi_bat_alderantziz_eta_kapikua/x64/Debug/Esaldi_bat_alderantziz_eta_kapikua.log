@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\Esaldi_bat_alderantziz_eta_kapikua\main.c(36,18): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\Esaldi_bat_alderantziz_eta_kapikua\main.c(46,18): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Esaldi_bat_alderantziz_eta_kapikua.vcxproj -> C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\x64\Debug\Esaldi_bat_alderantziz_eta_kapikua.exe
