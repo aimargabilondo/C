@@ -1,0 +1,4 @@
+﻿  ARIKETA41.c
+C:\Users\imuru\OneDrive\Escritorio\Program2\OINARRIZKOARIKETAK\ARIKETA41\ARIKETA41.c(5,6): warning C4101: 'n': variable local sin referencia
+C:\Users\imuru\OneDrive\Escritorio\Program2\OINARRIZKOARIKETAK\ARIKETA41\ARIKETA41.c(6,7): warning C4101: 'str': variable local sin referencia
+  ARIKETA41.vcxproj -> C:\Users\imuru\OneDrive\Escritorio\Program2\OINARRIZKOARIKETAK\x64\Debug\ARIKETA41.exe
