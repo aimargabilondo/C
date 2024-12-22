@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\Fitxategian_a_kop\main.c(15,9): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'FILE *'
+  Fitxategian_a_kop.vcxproj -> C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\x64\Debug\Fitxategian_a_kop.exe

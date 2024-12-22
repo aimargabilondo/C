@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\Fitxategiko_zenbakiak_ordenatu\main.c(10,10): warning C4101: 'izena': variable local sin referencia
+C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\Fitxategiko_zenbakiak_ordenatu\main.c(16,10): warning C4101: 'karakterea': variable local sin referencia
+  Fitxategiko_zenbakiak_ordenatu.vcxproj -> C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\x64\Debug\Fitxategiko_zenbakiak_ordenatu.exe

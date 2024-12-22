@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\fitxategiaren_tamaña\main.c(13,9): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'FILE *'
+C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\fitxategiaren_tamaña\main.c(8,10): warning C4101: 'izena': variable local sin referencia
+  fitxategiaren_tamaña.vcxproj -> C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\x64\Debug\fitxategiaren_tamaña.exe

@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\Gmail\main.c(37,16): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'int'
+C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\Gmail\main.c(37,16): warning C4313: 'printf': '%s' en la cadena de formato entra en conflicto con el argumento 1 de tipo 'int'
+  Gmail.vcxproj -> C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\x64\Debug\Gmail.exe
