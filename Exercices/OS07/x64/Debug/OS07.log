@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (OS07.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  OS07.c
+C:\Users\imuru\OneDrive\Escritorio\Program2\OINARRIZKOARIKETAK\OS07\OS07.c(5,12): warning C4101: 'm': variable local sin referencia
+  OS07.vcxproj -> C:\Users\imuru\OneDrive\Escritorio\Program2\OINARRIZKOARIKETAK\x64\Debug\OS07.FAKTORIALA.exe
