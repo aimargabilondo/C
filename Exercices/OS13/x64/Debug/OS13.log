@@ -1,0 +1,3 @@
+﻿  OS13.c
+C:\Users\imuru\OneDrive\Escritorio\Program2\OINARRIZKOARIKETAK\OS13\OS13.c(29,19): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  OS13.vcxproj -> C:\Users\imuru\OneDrive\Escritorio\Program2\OINARRIZKOARIKETAK\x64\Debug\OS13.exe
