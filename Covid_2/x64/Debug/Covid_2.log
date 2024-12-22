@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\Covid_2\main.c(31,70): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+  Covid_2.vcxproj -> C:\Users\aimar\OneDrive\Escritorio\Clase\Program2\x64\Debug\Covid_2.exe

@@ -1,0 +1,13 @@
+1 Enaitz Ezpeleta 18 Elgeta 
+2 Joseba Agirre 22 Arrasate 
+3 Pedro Arrieta 80 Aretxabaleta
+4 Enaitz1 Ezpeleta 18 Elgeta 
+5 Joseba1 Agirre 22 Arrasate 
+6 Pedro1 Arrieta 80 Aretxabaleta
+7 Enaitz1 Ezpeleta 18 Elgeta 
+8 Joseba1 Agirre 22 Arrasate 
+9 Pedro1 Arrieta 80 Aretxabaleta
+10 Enaitz1 Ezpeleta 18 Elgeta 
+11 Joseba1 Agirre 22 Arrasate 
+12 Pedro1 Arrieta 80 Aretxabaleta
+
