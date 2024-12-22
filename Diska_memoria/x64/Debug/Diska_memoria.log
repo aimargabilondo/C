@@ -1,0 +1,8 @@
+﻿  menua.c
+C:\Users\mikel\OneDrive\Escritorio\Visual Studio\Programazioa\Oinarrizko_informatika_ariketak\Diska_memoria\orokorrak.h(15,1): warning C4005: 'NULL': redefinición de macro
+  (compilando archivo de origen "menua.c")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(235,1):
+  vea la definición anterior de 'NULL'
+  
+C:\Users\mikel\OneDrive\Escritorio\Visual Studio\Programazioa\Oinarrizko_informatika_ariketak\Diska_memoria\menua.c(23,9): warning C4133: '=': tipos incompatibles, de 'NODOA *' a 'DISKA *'
+  Diska_memoria.vcxproj -> C:\Users\mikel\OneDrive\Escritorio\Visual Studio\Programazioa\Oinarrizko_informatika_ariketak\x64\Debug\Diska_memoria.exe
