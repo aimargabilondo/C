@@ -1,0 +1,3 @@
+1 Bilbao 5.7
+2 Donostia 6.2
+3 Vitoria-Gasteiz 4.8
